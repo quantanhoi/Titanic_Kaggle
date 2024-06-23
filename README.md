@@ -1,1 +1,1 @@
-[Praktikum-aufgabe](Aufgabe12.png)
+![Praktikum-aufgabe](Aufgabe12.png)
