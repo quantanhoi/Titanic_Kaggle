@@ -1,1 +1,1 @@
-[Praktikum-aufgabe](DWT_Praktikum4.pdf)
+[Praktikum-aufgabe](Aufgabe12.png)
